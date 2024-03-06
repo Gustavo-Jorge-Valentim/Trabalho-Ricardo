@@ -19,7 +19,7 @@ public class Main {
 
         System.out.println("\n\nDiga oque o Professor Ricardo irá fazer por ser seu amigo:" + aluno.ricardo() );
 
-
+        //## ME APROVA RICARDO , MERITO DE LEALDADE A VOCE!!!
     }
 }
 
