@@ -16,7 +16,8 @@ public class Main {
 
 
         System.out.println("\n\nNome do Aluno:" + aluno.nome() + ("\nIdade:" + aluno.idade) + ("\nMatéria:" + aluno.materia()) + ("\nNota do Aluno:" + aluno.nota()));
-        System.out.println();
+
+        System.out.println("\n\nDiga oque o Professor Ricardo irá fazer por ser seu amigo:" + aluno.ricardo() );
 
 
     }

@@ -17,6 +17,11 @@ public  class Aluno implements Ialuno {
     }
 
     @Override
+    public String ricardo () {
+        return ("Professor vai te aprovar <3");
+    }
+
+    @Override
     public String materia() {
         return ("Sistemas");
     }
