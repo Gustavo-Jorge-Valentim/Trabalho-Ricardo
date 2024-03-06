@@ -18,7 +18,7 @@ public  class Aluno implements Ialuno {
 
     @Override
     public String ricardo () {
-        return ("Professor vai te aprovar <3");
+        return ("PROFESSOR RICARDO VAI TE APROVAR !!!");
     }
 
     @Override
